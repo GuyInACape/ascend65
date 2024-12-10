@@ -1,0 +1,423 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.11
+[kbplacer_plugin_action.py:64]: Python version: '3.11.5 (main, May 10 2024, 05:24:12) [MSC v.1939 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 8.0.3 with 4.2.0 msw (phoenix) wxWidgets 3.2.4
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "C:\\Users\\BRYANNE\\Desktop\\KICAD (2)\\65%\\keyboard-layout.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "LED{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Back"}, "template_path": ""}, "enable_diode_placement": false, "route_switches_with_diodes": false, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"x": 5.08, "y": 3.03, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Back"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[key_placer.py:310]: Set key 1U distance: 19050000/19050000
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:117]: Switches by nets: defaultdict(<class 'list'>, {})
+[key_placer.py:121]: Diodes by switch: {}
+[board_modifier.py:63]: Searching for LED1 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[key_placer.py:506]: Looking for connection template between LED1 and other elements
+[board_modifier.py:97]: Getting LED1 footprint position: (16340000, -6300000)
+[key_placer.py:550]: Got connection template: 
+[kle_serial.py:885]: User layout: [['~\n`', '!\n1', '@\n2', '#\n3', '$\n4', '%\n5', '^\n6', '&\n7', '*\n8', '(\n9', ')\n0', '_\n-', '+\n=', {'w': 2}, 'Backspace', {'a': 7}, 'Home'], [{'a': 4, 'w': 1.5}, 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{\n[', '}\n]', {'w': 1.5}, '|\n\\', {'a': 7}, 'Del'], [{'a': 4, 'w': 1.75}, 'Caps Lock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':\n;', '"\n\'', {'w': 2.25}, 'Enter', {'a': 7}, 'PgUp'], [{'a': 4, 'w': 2.25}, 'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<\n,', '>\n.', '?\n/', {'w': 1.75}, 'Shift', {'a': 5, 'fa': [6]}, '^', {'a': 7, 'f': 3}, 'PgDn'], [{'a': 4, 'f': 3, 'w': 1.25}, 'Ctrl', {'f': 3, 'w': 1.25}, 'Win', {'f': 3, 'w': 1.25}, 'Alt', {'a': 7, 'w': 6.25}, '', {'a': 4, 'f': 3}, 'Alt', {'f': 3}, 'Fn', {'f': 3}, 'Menu', {'a': 6}, '<', {'a': 7}, '', {'a': 6, 'fa': [6, 0, 6]}, '\n\n>']]
+[key_placer.py:610]: Layout offset: (28575000, 28575000)
+[board_modifier.py:84]: Setting LED1 footprint position: (38100000, 38100000)
+[board_modifier.py:84]: Setting LED2 footprint position: (57150000, 38100000)
+[board_modifier.py:84]: Setting LED3 footprint position: (76200000, 38100000)
+[board_modifier.py:84]: Setting LED4 footprint position: (95250000, 38100000)
+[board_modifier.py:84]: Setting LED5 footprint position: (114300000, 38100000)
+[board_modifier.py:84]: Setting LED6 footprint position: (133350000, 38100000)
+[board_modifier.py:84]: Setting LED7 footprint position: (152400000, 38100000)
+[board_modifier.py:84]: Setting LED8 footprint position: (171450000, 38100000)
+[board_modifier.py:84]: Setting LED9 footprint position: (190500000, 38100000)
+[board_modifier.py:84]: Setting LED10 footprint position: (209550000, 38100000)
+[board_modifier.py:84]: Setting LED11 footprint position: (228600000, 38100000)
+[board_modifier.py:84]: Setting LED12 footprint position: (247650000, 38100000)
+[board_modifier.py:84]: Setting LED13 footprint position: (266700000, 38100000)
+[board_modifier.py:84]: Setting LED14 footprint position: (295275000, 38100000)
+[board_modifier.py:84]: Setting LED15 footprint position: (323850000, 38100000)
+[board_modifier.py:84]: Setting LED16 footprint position: (42862500, 57150000)
+[board_modifier.py:84]: Setting LED17 footprint position: (66675000, 57150000)
+[board_modifier.py:84]: Setting LED18 footprint position: (85725000, 57150000)
+[board_modifier.py:84]: Setting LED19 footprint position: (104775000, 57150000)
+[board_modifier.py:84]: Setting LED20 footprint position: (123825000, 57150000)
+[board_modifier.py:84]: Setting LED21 footprint position: (142875000, 57150000)
+[board_modifier.py:84]: Setting LED22 footprint position: (161925000, 57150000)
+[board_modifier.py:84]: Setting LED23 footprint position: (180975000, 57150000)
+[board_modifier.py:84]: Setting LED24 footprint position: (200025000, 57150000)
+[board_modifier.py:84]: Setting LED25 footprint position: (219075000, 57150000)
+[board_modifier.py:84]: Setting LED26 footprint position: (238125000, 57150000)
+[board_modifier.py:84]: Setting LED27 footprint position: (257175000, 57150000)
+[board_modifier.py:84]: Setting LED28 footprint position: (276225000, 57150000)
+[board_modifier.py:84]: Setting LED29 footprint position: (300037500, 57150000)
+[board_modifier.py:84]: Setting LED30 footprint position: (323850000, 57150000)
+[board_modifier.py:84]: Setting LED31 footprint position: (45243750, 76200000)
+[board_modifier.py:84]: Setting LED32 footprint position: (71437500, 76200000)
+[board_modifier.py:84]: Setting LED33 footprint position: (90487500, 76200000)
+[board_modifier.py:84]: Setting LED34 footprint position: (109537500, 76200000)
+[board_modifier.py:84]: Setting LED35 footprint position: (128587500, 76200000)
+[board_modifier.py:84]: Setting LED36 footprint position: (147637500, 76200000)
+[board_modifier.py:84]: Setting LED37 footprint position: (166687500, 76200000)
+[board_modifier.py:84]: Setting LED38 footprint position: (185737500, 76200000)
+[board_modifier.py:84]: Setting LED39 footprint position: (204787500, 76200000)
+[board_modifier.py:84]: Setting LED40 footprint position: (223837500, 76200000)
+[board_modifier.py:84]: Setting LED41 footprint position: (242887500, 76200000)
+[board_modifier.py:84]: Setting LED42 footprint position: (261937500, 76200000)
+[board_modifier.py:84]: Setting LED43 footprint position: (292893750, 76200000)
+[board_modifier.py:84]: Setting LED44 footprint position: (323850000, 76200000)
+[board_modifier.py:84]: Setting LED45 footprint position: (50006250, 95250000)
+[board_modifier.py:84]: Setting LED46 footprint position: (80962500, 95250000)
+[board_modifier.py:84]: Setting LED47 footprint position: (100012500, 95250000)
+[board_modifier.py:84]: Setting LED48 footprint position: (119062500, 95250000)
+[board_modifier.py:84]: Setting LED49 footprint position: (138112500, 95250000)
+[board_modifier.py:84]: Setting LED50 footprint position: (157162500, 95250000)
+[board_modifier.py:84]: Setting LED51 footprint position: (176212500, 95250000)
+[board_modifier.py:84]: Setting LED52 footprint position: (195262500, 95250000)
+[board_modifier.py:84]: Setting LED53 footprint position: (214312500, 95250000)
+[board_modifier.py:84]: Setting LED54 footprint position: (233362500, 95250000)
+[board_modifier.py:84]: Setting LED55 footprint position: (252412500, 95250000)
+[board_modifier.py:84]: Setting LED56 footprint position: (278606250, 95250000)
+[board_modifier.py:84]: Setting LED57 footprint position: (304800000, 95250000)
+[board_modifier.py:84]: Setting LED58 footprint position: (323850000, 95250000)
+[board_modifier.py:84]: Setting LED59 footprint position: (40481250, 114300000)
+[board_modifier.py:84]: Setting LED60 footprint position: (64293750, 114300000)
+[board_modifier.py:84]: Setting LED61 footprint position: (88106250, 114300000)
+[board_modifier.py:84]: Setting LED62 footprint position: (159543750, 114300000)
+[board_modifier.py:84]: Setting LED63 footprint position: (228600000, 114300000)
+[board_modifier.py:84]: Setting LED64 footprint position: (247650000, 114300000)
+[board_modifier.py:84]: Setting LED65 footprint position: (266700000, 114300000)
+[board_modifier.py:84]: Setting LED66 footprint position: (285750000, 114300000)
+[board_modifier.py:84]: Setting LED67 footprint position: (304800000, 114300000)
+[board_modifier.py:84]: Setting LED68 footprint position: (323850000, 114300000)
+[key_placer.py:955]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.UNCHANGED: 'Unchanged'>, position=ElementPosition(x=5.08, y=3.03, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[key_placer.py:723]: Placing additional elements for LED68
+[board_modifier.py:97]: Getting LED68 footprint position: (323850000, 114300000)
+[board_modifier.py:74]: Searching for optional ST68 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED67
+[board_modifier.py:97]: Getting LED67 footprint position: (304800000, 114300000)
+[board_modifier.py:74]: Searching for optional ST67 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED66
+[board_modifier.py:97]: Getting LED66 footprint position: (285750000, 114300000)
+[board_modifier.py:74]: Searching for optional ST66 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED65
+[board_modifier.py:97]: Getting LED65 footprint position: (266700000, 114300000)
+[board_modifier.py:74]: Searching for optional ST65 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED64
+[board_modifier.py:97]: Getting LED64 footprint position: (247650000, 114300000)
+[board_modifier.py:74]: Searching for optional ST64 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED63
+[board_modifier.py:97]: Getting LED63 footprint position: (228600000, 114300000)
+[board_modifier.py:74]: Searching for optional ST63 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED62
+[board_modifier.py:97]: Getting LED62 footprint position: (159543750, 114300000)
+[board_modifier.py:74]: Searching for optional ST62 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED61
+[board_modifier.py:97]: Getting LED61 footprint position: (88106250, 114300000)
+[board_modifier.py:74]: Searching for optional ST61 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED60
+[board_modifier.py:97]: Getting LED60 footprint position: (64293750, 114300000)
+[board_modifier.py:74]: Searching for optional ST60 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED59
+[board_modifier.py:97]: Getting LED59 footprint position: (40481250, 114300000)
+[board_modifier.py:74]: Searching for optional ST59 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED58
+[board_modifier.py:97]: Getting LED58 footprint position: (323850000, 95250000)
+[board_modifier.py:74]: Searching for optional ST58 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED57
+[board_modifier.py:97]: Getting LED57 footprint position: (304800000, 95250000)
+[board_modifier.py:74]: Searching for optional ST57 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED56
+[board_modifier.py:97]: Getting LED56 footprint position: (278606250, 95250000)
+[board_modifier.py:74]: Searching for optional ST56 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED55
+[board_modifier.py:97]: Getting LED55 footprint position: (252412500, 95250000)
+[board_modifier.py:74]: Searching for optional ST55 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED54
+[board_modifier.py:97]: Getting LED54 footprint position: (233362500, 95250000)
+[board_modifier.py:74]: Searching for optional ST54 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED53
+[board_modifier.py:97]: Getting LED53 footprint position: (214312500, 95250000)
+[board_modifier.py:74]: Searching for optional ST53 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED52
+[board_modifier.py:97]: Getting LED52 footprint position: (195262500, 95250000)
+[board_modifier.py:74]: Searching for optional ST52 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED51
+[board_modifier.py:97]: Getting LED51 footprint position: (176212500, 95250000)
+[board_modifier.py:74]: Searching for optional ST51 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED50
+[board_modifier.py:97]: Getting LED50 footprint position: (157162500, 95250000)
+[board_modifier.py:74]: Searching for optional ST50 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED49
+[board_modifier.py:97]: Getting LED49 footprint position: (138112500, 95250000)
+[board_modifier.py:74]: Searching for optional ST49 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED48
+[board_modifier.py:97]: Getting LED48 footprint position: (119062500, 95250000)
+[board_modifier.py:74]: Searching for optional ST48 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED47
+[board_modifier.py:97]: Getting LED47 footprint position: (100012500, 95250000)
+[board_modifier.py:74]: Searching for optional ST47 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED46
+[board_modifier.py:97]: Getting LED46 footprint position: (80962500, 95250000)
+[board_modifier.py:74]: Searching for optional ST46 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED45
+[board_modifier.py:97]: Getting LED45 footprint position: (50006250, 95250000)
+[board_modifier.py:74]: Searching for optional ST45 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED44
+[board_modifier.py:97]: Getting LED44 footprint position: (323850000, 76200000)
+[board_modifier.py:74]: Searching for optional ST44 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED43
+[board_modifier.py:97]: Getting LED43 footprint position: (292893750, 76200000)
+[board_modifier.py:74]: Searching for optional ST43 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED42
+[board_modifier.py:97]: Getting LED42 footprint position: (261937500, 76200000)
+[board_modifier.py:74]: Searching for optional ST42 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED41
+[board_modifier.py:97]: Getting LED41 footprint position: (242887500, 76200000)
+[board_modifier.py:74]: Searching for optional ST41 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED40
+[board_modifier.py:97]: Getting LED40 footprint position: (223837500, 76200000)
+[board_modifier.py:74]: Searching for optional ST40 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED39
+[board_modifier.py:97]: Getting LED39 footprint position: (204787500, 76200000)
+[board_modifier.py:74]: Searching for optional ST39 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED38
+[board_modifier.py:97]: Getting LED38 footprint position: (185737500, 76200000)
+[board_modifier.py:74]: Searching for optional ST38 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED37
+[board_modifier.py:97]: Getting LED37 footprint position: (166687500, 76200000)
+[board_modifier.py:74]: Searching for optional ST37 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED36
+[board_modifier.py:97]: Getting LED36 footprint position: (147637500, 76200000)
+[board_modifier.py:74]: Searching for optional ST36 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED35
+[board_modifier.py:97]: Getting LED35 footprint position: (128587500, 76200000)
+[board_modifier.py:74]: Searching for optional ST35 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED34
+[board_modifier.py:97]: Getting LED34 footprint position: (109537500, 76200000)
+[board_modifier.py:74]: Searching for optional ST34 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED33
+[board_modifier.py:97]: Getting LED33 footprint position: (90487500, 76200000)
+[board_modifier.py:74]: Searching for optional ST33 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED32
+[board_modifier.py:97]: Getting LED32 footprint position: (71437500, 76200000)
+[board_modifier.py:74]: Searching for optional ST32 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED31
+[board_modifier.py:97]: Getting LED31 footprint position: (45243750, 76200000)
+[board_modifier.py:74]: Searching for optional ST31 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED30
+[board_modifier.py:97]: Getting LED30 footprint position: (323850000, 57150000)
+[board_modifier.py:74]: Searching for optional ST30 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED29
+[board_modifier.py:97]: Getting LED29 footprint position: (300037500, 57150000)
+[board_modifier.py:74]: Searching for optional ST29 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED28
+[board_modifier.py:97]: Getting LED28 footprint position: (276225000, 57150000)
+[board_modifier.py:74]: Searching for optional ST28 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED27
+[board_modifier.py:97]: Getting LED27 footprint position: (257175000, 57150000)
+[board_modifier.py:74]: Searching for optional ST27 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED26
+[board_modifier.py:97]: Getting LED26 footprint position: (238125000, 57150000)
+[board_modifier.py:74]: Searching for optional ST26 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED25
+[board_modifier.py:97]: Getting LED25 footprint position: (219075000, 57150000)
+[board_modifier.py:74]: Searching for optional ST25 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED24
+[board_modifier.py:97]: Getting LED24 footprint position: (200025000, 57150000)
+[board_modifier.py:74]: Searching for optional ST24 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED23
+[board_modifier.py:97]: Getting LED23 footprint position: (180975000, 57150000)
+[board_modifier.py:74]: Searching for optional ST23 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED22
+[board_modifier.py:97]: Getting LED22 footprint position: (161925000, 57150000)
+[board_modifier.py:74]: Searching for optional ST22 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED21
+[board_modifier.py:97]: Getting LED21 footprint position: (142875000, 57150000)
+[board_modifier.py:74]: Searching for optional ST21 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED20
+[board_modifier.py:97]: Getting LED20 footprint position: (123825000, 57150000)
+[board_modifier.py:74]: Searching for optional ST20 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED19
+[board_modifier.py:97]: Getting LED19 footprint position: (104775000, 57150000)
+[board_modifier.py:74]: Searching for optional ST19 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED18
+[board_modifier.py:97]: Getting LED18 footprint position: (85725000, 57150000)
+[board_modifier.py:74]: Searching for optional ST18 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED17
+[board_modifier.py:97]: Getting LED17 footprint position: (66675000, 57150000)
+[board_modifier.py:74]: Searching for optional ST17 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED16
+[board_modifier.py:97]: Getting LED16 footprint position: (42862500, 57150000)
+[board_modifier.py:74]: Searching for optional ST16 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED15
+[board_modifier.py:97]: Getting LED15 footprint position: (323850000, 38100000)
+[board_modifier.py:74]: Searching for optional ST15 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED14
+[board_modifier.py:97]: Getting LED14 footprint position: (295275000, 38100000)
+[board_modifier.py:74]: Searching for optional ST14 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED13
+[board_modifier.py:97]: Getting LED13 footprint position: (266700000, 38100000)
+[board_modifier.py:74]: Searching for optional ST13 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED12
+[board_modifier.py:97]: Getting LED12 footprint position: (247650000, 38100000)
+[board_modifier.py:74]: Searching for optional ST12 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED11
+[board_modifier.py:97]: Getting LED11 footprint position: (228600000, 38100000)
+[board_modifier.py:74]: Searching for optional ST11 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED10
+[board_modifier.py:97]: Getting LED10 footprint position: (209550000, 38100000)
+[board_modifier.py:74]: Searching for optional ST10 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED9
+[board_modifier.py:97]: Getting LED9 footprint position: (190500000, 38100000)
+[board_modifier.py:74]: Searching for optional ST9 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED8
+[board_modifier.py:97]: Getting LED8 footprint position: (171450000, 38100000)
+[board_modifier.py:74]: Searching for optional ST8 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED7
+[board_modifier.py:97]: Getting LED7 footprint position: (152400000, 38100000)
+[board_modifier.py:74]: Searching for optional ST7 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED6
+[board_modifier.py:97]: Getting LED6 footprint position: (133350000, 38100000)
+[board_modifier.py:74]: Searching for optional ST6 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED5
+[board_modifier.py:97]: Getting LED5 footprint position: (114300000, 38100000)
+[board_modifier.py:74]: Searching for optional ST5 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED4
+[board_modifier.py:97]: Getting LED4 footprint position: (95250000, 38100000)
+[board_modifier.py:74]: Searching for optional ST4 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED3
+[board_modifier.py:97]: Getting LED3 footprint position: (76200000, 38100000)
+[board_modifier.py:74]: Searching for optional ST3 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED2
+[board_modifier.py:97]: Getting LED2 footprint position: (57150000, 38100000)
+[board_modifier.py:74]: Searching for optional ST2 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for LED1
+[board_modifier.py:97]: Getting LED1 footprint position: (38100000, 38100000)
+[board_modifier.py:74]: Searching for optional ST1 footprint in C:\Users\BRYANNE\Desktop\KICAD (2)\65%\65PCB\65PCB.kicad_pcb
+[board_modifier.py:79]: Footprint not found
